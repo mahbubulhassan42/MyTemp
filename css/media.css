@@ -1,0 +1,451 @@
+ /* Extra small devices  */
+@media (max-width: 575.98px) { 
+
+    .banner h2 {
+        font-size: 30px;
+    }
+    .banner p {
+        font-size: 11px;
+        margin-bottom: 20px;
+    }
+    .banner a {
+        font-size: 7px;
+    }
+    .banner {
+        padding-top: 130px;
+        padding-bottom: 90px;
+    }
+    .about {
+        padding-top: 30px;
+    }
+    .ab_heading h2 {
+        font-size: 23px;
+    }
+    .ab_heading p {
+        font-size: 13px;
+    }
+    .ab_text {
+        padding-top: 57px;
+        padding-bottom: 50px;
+    }
+    .ab_text h3 {
+        font-size: 20px;
+    }
+    .ab_text p {
+        font-size: 15px;
+        margin-top: 20px;
+        margin-bottom: 24px;
+    }
+    .ab_text a {
+        font-size: 10px;
+    }
+    .footer {
+        padding-top: 25px;
+        padding-bottom: 20px;
+    }
+    .footer_item h1 {
+        font-size: 18px;
+    }
+    .footer_item h4 a {
+        font-size: 10px;
+    }
+    .footer_item p {
+        font-size: 11px;
+        margin-top: 10px;
+    }
+    .footer_item h2 {
+        font-size: 12px;
+    }
+    .footer_item h3 a {
+        font-size: 20px;
+        padding: 0px 8px;
+    }
+    .service {
+        padding-top: 30px;
+    }
+    .ser_heading h2 {
+        font-size: 23px;
+    }
+    .ser_heading p {
+        font-size: 13px;
+    }
+    .ser_text {
+        padding-top: 57px;
+        padding-bottom: 50px;
+    }
+    .ser_text h3 {
+        font-size: 20px;
+    }
+    .ser_text p {
+        font-size: 15px;
+        margin-top: 20px;
+        margin-bottom: 24px;
+    }
+    .ser_overly_item {
+        padding-top: 62px;
+    }
+    .ser_overly_item h4 {
+        font-size: 22px;
+    }
+    .ser_overly_item p {
+        font-size: 15px;
+        margin-bottom: 25px;
+    }
+    .ser_overly_item a {
+        font-size: 10px;
+    }
+    .work {
+        padding-top: 30px;
+    }
+    .work_heading h2 {
+        font-size: 23px;
+    }
+    .work_heading p {
+        font-size: 13px;
+    }
+    .work_text {
+        padding-top: 57px;
+        padding-bottom: 50px;
+    }
+    .work_text h3 {
+        font-size: 20px;
+    }
+    .work_text p {
+        font-size: 15px;
+        margin-top: 20px;
+        margin-bottom: 24px;
+    }
+    .work_text a {
+        font-size: 10px;
+    }
+    .contact {
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+    .contact_heading h2 {
+        font-size: 23px;
+    }
+    .contact_heading p {
+        font-size: 13px;
+    }
+
+ }
+
+ /* Small devices  */
+@media (min-width: 576px) and (max-width: 767.98px) { 
+    .banner h2 {
+        font-size: 35px;
+    }
+    .banner p {
+        font-size: 17px;
+        margin-bottom: 25px;
+    }
+    .banner a {
+        font-size: 10px;
+    }
+    .banner {
+        padding-top: 150px;
+        padding-bottom: 110px;
+    }
+    .about {
+        padding-top: 60px;;
+    }
+    .ab_heading h2 {
+        font-size: 28px;
+    }
+    .ab_heading p {
+        font-size: 17px;
+    }
+    .ab_text {
+        padding-top: 50px;
+        padding-bottom: 60px;
+    }
+    .ab_text h3 {
+        font-size: 22px;
+    }
+    .ab_text p {
+        font-size: 16px;
+        margin-top: 30px;
+        margin-bottom: 25px;
+    }
+    .ab_text a {
+        font-size: 10px;
+    }
+    .footer {
+        padding-top: 35px;
+        padding-bottom: 25px;
+    }
+    .footer_item h1 {
+        font-size: 20px;
+    }
+    .footer_item h4 a {
+        font-size: 12px;
+    }
+    .footer_item p {
+        font-size: 13px;
+        margin-top: 15px;
+    }
+    .footer_item h2 {
+        font-size: 14px;
+    }
+    .footer_item h3 a {
+        font-size: 23px;
+        padding: 0 10px;
+    }
+    .service {
+        padding-top: 60px;;
+    }
+    .ser_heading h2 {
+        font-size: 28px;
+    }
+    .ser_heading p {
+        font-size: 17px;
+    }
+    .ser_text {
+        padding-top: 50px;
+        padding-bottom: 60px;
+    }
+    .ser_text h3 {
+        font-size: 22px;
+    }
+    .ser_text p {
+        font-size: 16px;
+        margin-top: 30px;
+        margin-bottom: 25px;
+    }
+    .ser_overly_item {
+        padding-top: 65px;
+        padding-left: 0;
+    }
+    .ser_overly_item h4 {
+        font-size: 26px;
+    }
+    .ser_overly_item p {
+        font-size: 17px;
+        margin-bottom: 28px;
+    }
+    .ser_overly_item a {
+        font-size: 12px;
+    }
+    .work {
+        padding-top: 60px;;
+    }
+    .work_heading h2 {
+        font-size: 28px;
+    }
+    .work_heading p {
+        font-size: 17px;
+    }
+    .work_text {
+        padding-top: 50px;
+        padding-bottom: 60px;
+    }
+    .work_text h3 {
+        font-size: 22px;
+    }
+    .work_text p {
+        font-size: 16px;
+        margin-top: 30px;
+        margin-bottom: 25px;
+    }
+    .work_text a {
+        font-size: 10px;
+    }
+    .contact {
+        padding-top: 60px;;
+        padding-bottom: 40px;;
+    }
+    .contact_heading h2 {
+        font-size: 28px;
+    }
+    .contact_heading p {
+        font-size: 17px;
+    }
+
+ }
+
+ /* Medium devices  */
+@media (min-width: 768px) and (max-width: 991.98px) { 
+    .banner h2 {
+        font-size: 46px;
+    }
+    .banner p {
+        font-size: 19px;
+        margin-bottom: 34px;
+    }
+    .banner a {
+        font-size: 12px;
+    }
+    .banner {
+        padding-top: 180px;
+        padding-bottom: 154px;
+    }
+    .about {
+        padding-top: 75px;
+    }
+    .ab_heading h2 {
+        font-size: 32px;
+    }
+    .ab_heading p {
+        font-size: 17px;
+    }
+    .ab_text h3 {
+        font-size: 23px;
+    }
+    .ab_text p {
+        font-size: 13px;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+    .ab_text a {
+        font-size: 8px;
+    }
+    .ab_text {
+        padding-top: 50px;
+        padding-bottom: 30px;
+    }
+    .footer {
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+    .footer_item h1 {
+        font-size: 22px;
+    }
+    .footer_item h4 a {
+        font-size: 13px;
+    }
+    .footer_item p {
+        font-size: 13px;
+        margin-top: 10px;
+    }
+    .footer_item h2 {
+        font-size: 15px;
+    }
+    .footer_item h3 a {
+        font-size: 24px;
+        padding: 0px 10px;
+    }
+    .service {
+        padding-top: 75px;
+    }
+    .ser_heading h2 {
+        font-size: 32px;
+    }
+    .ser_heading p {
+        font-size: 17px;
+    }
+    .ser_text h3 {
+        font-size: 23px;
+    }
+    .ser_text p {
+        font-size: 13px;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+    .ser_text {
+        padding-top: 60px;
+        padding-bottom: 40px;
+    }
+    .ser_overly_item {
+        padding-top: 60px;
+    }
+    .ser_overly_item h4 {
+        font-size: 22px;
+    }
+    .ser_overly_item p {
+        font-size: 16px;
+        margin-bottom: 23px;
+    }
+    .ser_overly_item a {
+        font-size: 12px;
+    }
+    .work {
+        padding-top: 75px;
+    }
+    .work_heading h2 {
+        font-size: 32px;
+    }
+    .work_heading p {
+        font-size: 17px;
+    }
+    .work_text h3 {
+        font-size: 23px;
+    }
+    .work_text p {
+        font-size: 13px;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+    .work_text a {
+        font-size: 8px;
+    }
+    .work_text {
+        padding-top: 50px;
+        padding-bottom: 30px;
+    }
+    .contact {
+        padding-top: 75px;
+    }
+    .contact_heading h2 {
+        font-size: 32px;
+    }
+    .contact_heading p {
+        font-size: 17px;
+    }
+ }
+
+/* Large devices  */
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+    .ab_text {
+        padding-top: 40px;
+        padding-bottom: 10px;
+    }
+    .ab_text p {
+        font-size: 19px;
+        margin-top: 22px;
+        margin-bottom: 27px;
+    }
+    .ab_text a {
+        padding: 9px 25px;
+    }
+    .ser_text {
+        padding-top: 40px;
+        padding-bottom: 0px;
+    }
+    .ser_text p {
+        font-size: 19px;
+        margin-top: 22px;
+        margin-bottom: 15px;
+    }
+    .ser_overly_item {
+        padding-top: 40px;
+    }
+    .work_text {
+        padding-top: 40px;
+        padding-bottom: 10px;
+    }
+    .work_text p {
+        font-size: 19px;
+        margin-top: 22px;
+        margin-bottom: 27px;
+    }
+    .work_text a {
+        padding: 9px 25px;
+    }
+ }
+
+ /* Extra large devices  */
+@media (min-width: 1200px) { 
+    .ab_text {
+        padding-top: 104px;
+        padding-bottom: 30px;
+    }
+    .ser_text {
+        padding-top: 104px;
+        padding-bottom: 50px;
+    }
+    .work_text {
+        padding-top: 104px;
+        padding-bottom: 50px;
+    }
+ }
